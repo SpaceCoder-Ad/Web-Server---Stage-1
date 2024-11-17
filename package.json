@@ -4,7 +4,8 @@
   "description": "This project is a simple web server created as part of Stage 1 for the Backend Track. It includes three routes that provide static responses.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
