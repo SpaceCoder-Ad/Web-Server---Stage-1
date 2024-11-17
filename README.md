@@ -28,8 +28,8 @@ Ensure you have the following installed on your system:
 1. **Clone the Repository**  
    Clone this project to your local machine:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/SpaceCoder-Ad/Web-Server---Stage-1.git
+   cd Web-Server---Stage-1
    ```
 
 2. **Install Dependencies**  
