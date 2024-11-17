@@ -82,7 +82,7 @@ Once deployed, you can access the live server here:
 ## **Project Structure**
 
 ```
-your-project-folder/
+Web-Server---Stage-1/
 ├── server.js         # Main server file
 ├── package-lock.json # 
 ├── package.json      # Project dependencies and scripts
